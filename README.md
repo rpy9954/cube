@@ -1,2 +1,2 @@
-# cube
+cube is an awesome project.........
 Please add all details about your project in REAdME.
